@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import objectrespository.FbLoginpage;
 
 public class LoginTest {
-
+//Use test NG Anotaton
 	@Test
 	public void Login()
 	{
