@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 public class FbLoginpage {
 
 	WebDriver driver;
-
+// under this line am defining a constructor 
 	public FbLoginpage(WebDriver driver)
 
 	{
